@@ -1,2 +1,31 @@
-# fd43a905-retail-store-operations-and-co
-Notion workspace for retail store managers and multi-site retail operations teams managing daily compliance, staff scheduling, and performance tracking. Features a daily store opening and closing checklist, food safety temperature log for grocery and food service, equipment maintenance schedule, visual merchandising planogram tracker, mystery shopp
+# Retail Store Operations and Compliance Checker Notion Template
+
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard views | Yes | Yes |
+| Sample data | Yes | Yes |
+| Advanced automations | - | Yes |
+| Custom formulas | - | Yes |
+| Multiple databases | - | Yes |
+| Dashboard views | - | Yes |
+| Video tutorials | - | Yes |
+| Lifetime updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/8x24gzbHh2k47BCeM4cZa3M)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/8x24gzbHh2k47BCeM4cZa3M)
+- [Buy on Gumroad](https://cleargum.gumroad.com/l/zxvffa)
+- [Buy on Whop](https://whop.com/retail-store-operations-and-compliance-checker-notion-template)
+
